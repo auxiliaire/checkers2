@@ -27,3 +27,7 @@ This project comparing with its successor [checkers3](https://github.com/auxilia
 ## Old features
 
 This version was written about ten years ago and never really finished (although working as a game). It lacks the features intended for Gnome3 "integration".
+
+## Screenshot
+
+![Gtk+2 app running in Gnome3](/checkers-gtk2.png)
